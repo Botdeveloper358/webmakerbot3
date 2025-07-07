@@ -2,7 +2,7 @@ import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters, CallbackQueryHandler
 
-TELEGRAM_TOKEN = "7893147721:AAHH2aQRfU6ZgkfeTVj78EiHRZFqhcqODvo"
+TELEGRAM_TOKEN = "7893147721:AAG1YuCNO5UT5mm5HRM_LkakdYmq466RMDg"
 
 users = {}
 
